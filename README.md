@@ -94,3 +94,7 @@ answer = client.ask(context="...", question="What is...?")
 entities = client.extract_entities("John met Jane in Paris on Jan 1, 2024")
 # Returns: {"people": [...], "dates": [...], "locations": [...]}
 ```
+
+Feature Branch 
+
+Prepared by Obaloluwa Adeleke
